@@ -38,7 +38,4 @@
 
 ## Live #3: 시연 영상
 
--   미편집 원본영상
-
--   편집 영상
-
+https://www.youtube.com/watch?v=l22ozmmE3iE
