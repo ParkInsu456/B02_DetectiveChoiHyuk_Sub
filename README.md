@@ -38,4 +38,4 @@
 
 ## Live #3: 시연 영상
 
-https://www.youtube.com/watch?v=l22ozmmE3iE
+[https://www.youtube.com/watch?v=l22ozmmE3iE](https://youtu.be/3OblXzht180)
