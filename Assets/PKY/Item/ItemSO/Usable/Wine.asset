@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4639980a9a3e9404b908914af20c050b, type: 3}
+  m_Name: Wine
+  m_EditorClassIdentifier: 
+  ItemName: "\uC640\uC778"
+  ItemDescription: "\uC640\uC778 \uCE90\uBE44\uB2DB\uC5D0 \uC788\uB358 \uC640\uC778\uC774\uB2E4."
+  itemType: 0
+  ItemIcon: {fileID: 0}
+  ItemPrefab: {fileID: 5443284054981323019, guid: a88df323a3e4c7c46904ab1e5167d474, type: 3}
+  ItemID: 
+  CanStack: 0
+  MaxStackAmount: 0
+  Consumable:
+    type: 0
+    value: 0
+  equipPrefab: {fileID: 5443284054981323019, guid: a88df323a3e4c7c46904ab1e5167d474, type: 3}
