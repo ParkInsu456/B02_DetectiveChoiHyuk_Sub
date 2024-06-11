@@ -36,6 +36,6 @@
 
 -   화재지역 안에 있으면 시간이 지날때마다 체력이 떨어짐. 연기를 파티클을 이용해 묘사.
 
-## Live #3: 시연 영상
+## #3: 시연 영상
 
 [https://www.youtube.com/watch?v=l22ozmmE3iE](https://youtu.be/3OblXzht180)
